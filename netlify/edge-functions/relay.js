@@ -1,4 +1,4 @@
-const TARGET_BASE = "https://best.daltoon-server.ir:2087".replace(/\/$/, "");
+const TARGET_BASE = "http://best.daltoon-server.ir:2087".replace(/\/$/, "");
 const GITHUB_PAGE = "https://ir-netlify.github.io/NETLIFY/";
 
 const STRIP_HEADERS = new Set([
